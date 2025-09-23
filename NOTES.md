@@ -1,38 +1,12 @@
-# Glottography dataset derived from Rantanen et al. 2021 "Geographical database of the Uralic languages"
 
-[![CLDF validation](https://github.com/Glottography/rantanen2021uralic/workflows/CLDF-validation/badge.svg)](https://github.com/Glottography/rantanen2021uralic/actions?query=workflow%3ACLDF-validation)
-
-## How to cite
-
-If you use these data please cite
-- the original source
-  > Rantanen, T., Vesakoski, O., Ylikoski, J., & Tolvanen, H. (2021). Geographical database of the Uralic languages (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4784188
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
-
-## Description
-
-
-This dataset is licensed under a CC-BY-4.0 license
-
-
-
-
-### Coverage
-
-```geojson
-{"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5, 52.1], [9.5, 75.7], [113.5, 75.7], [113.5, 52.1], [9.5, 52.1]]]}, "properties": {}}
-```
-
-
-
-### Attribution
+# Attribution
 
 When you use the datasets or maps, please also cite to the following paper introducing the whole of process from data collection, harmonization and visualization until releasing the data:
 
 > Rantanen, T., Tolvanen, H., Roose, M., Ylikoski, J. & Vesakoski, O. (2022) “Best practices for spatial language data harmonization, sharing and map creation - A case study of Uralic” PLoS ONE 17(6): e0269648. https://doi.org/10.1371/journal.pone.0269648.
 
 
-### Data selection
+# Data selection
 
 This dataset only contains a subset of the language distributions from the source dataset - namely
 the features from the "traditional" shapefiles in the
@@ -40,7 +14,7 @@ the features from the "traditional" shapefiles in the
 directory.
 
 
-### Focal year
+# Focal year
 
 The `year` column in `ContributionTable` has a value of "traditional" for all features of this dataset.
 The source dataset describes this "traditional" epoch as follows:
@@ -50,10 +24,3 @@ The source dataset describes this "traditional" epoch as follows:
 Some exceptions are described:
 
 > For Mator and Kamas, which became extinct in the 19th and 20th centuries, respectively (Dolgix 1960), the “traditional distribution” refers to the beginning of the 19th century.
-
-
-## CLDF Datasets
-
-The following CLDF datasets are available in [cldf](cldf):
-
-- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
