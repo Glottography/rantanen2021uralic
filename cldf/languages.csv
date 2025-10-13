@@ -1,4 +1,12 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+cent2400,Central Zyryan,,,,cent2400,,266,dialect,Uralic,dialects
+east2879,East Mansi,,,,east2879,,285,dialect,Uralic,dialects
+gras1239,Grassland Mari,,,,gras1239,,12,dialect,Uralic,dialects
+izhm1234,Izhma,,,,izhm1234,,265 272 273,dialect,Uralic,dialects
+kozy1238,Kozymodemyan,,,,kozy1238,,74,dialect,Uralic,dialects
+nort3401,North Zyryan,,,,nort3401,,265 272 273,dialect,Uralic,dialects
+sout3379,South Zyryan,,,,sout3379,,267 268 269 270,dialect,Uralic,dialects
+yara1249,Yaran,,,,yara1249,,262 263 264,dialect,Uralic,dialects
 cent2322,Central Mansi,,61.1432,62.4023,cent2322,,285,language,Uralic,languages
 east2328,Eastern Mari,,55.8307,48.405,east2328,,12 280 281 282 283 284,language,Uralic,languages
 erzy1239,Erzya,,52.8548,45.3901,erzy1239,,16 18 20 22 24 26 28 30 32 34 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200,language,Uralic,languages
