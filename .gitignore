@@ -100,3 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 .idea/
+
+# download files
+Geographical database of the Uralic languages/

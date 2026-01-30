@@ -16,13 +16,13 @@
         {
             "rdf:about": "https://github.com/Glottography/rantanen2021uralic",
             "rdf:type": "prov:Entity",
-            "dc:created": "8c822a7",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.2.1-20-g8e82dff6e0",
             "dc:title": "Glottolog"
         }
     ],
