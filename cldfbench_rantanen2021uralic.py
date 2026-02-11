@@ -5,7 +5,7 @@ import collections
 
 from csvw.dsv import UnicodeWriter
 from clldutils.jsonlib import dump
-from cldfgeojson.create import shapely_fixed_geometry
+from cldfgeojson.geometry import fixed_geometry
 import pyglottography
 
 URL = "https://zenodo.org/records/4784188/files/" \
@@ -44,10 +44,10 @@ def shp2geojson(shp):
                     feature['properties']['Language'].split(' and ')):
                 props = {k: v for k, v in feature['properties'].items()}
                 props.update(Glottocode=gc, Language=name)
-                yield shapely_fixed_geometry(dict(
+                yield fixed_geometry(dict(
                     type='Feature', geometry=feature['geometry'], properties=props))
         else:
-            yield shapely_fixed_geometry(feature)
+            yield fixed_geometry(feature)
 
 
 class Dataset(pyglottography.Dataset):

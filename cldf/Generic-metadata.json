@@ -16,13 +16,13 @@
         {
             "rdf:about": "https://github.com/Glottography/rantanen2021uralic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1-20-g8e82dff6e0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
@@ -214,7 +214,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "We list the individual features from the source dataset as contributions in order to preserve the original metadata and a point of reference for the aggregated shapes.",
-            "dc:extent": 382,
+            "dc:extent": 152,
             "tableSchema": {
                 "columns": [
                     {

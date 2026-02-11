@@ -1,383 +1,153 @@
 ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
-map_1,LuleSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-1,Lule Saami (Forest Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-2,Lule Saami (Southern Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-3,Lule Saami (Central Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-4,Lule Saami (Northern Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-5,Lule Saami (Mixed Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-6,Lule Saami (Central Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_1
-map_2,ForestNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-7,Forest Nenets,,,,fore1274,traditional,rantanen2021uralic,features,feature,map_2
-map_3,Livonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-8,Livonian,,,,livv1244,traditional,rantanen2021uralic,features,feature,map_3
-map_4,NorthMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-9,North Mansi,,,,mans1258,traditional,rantanen2021uralic,features,feature,map_4
-map_5,Votic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-10,Votic (Western Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_5
-11,Votic (Eastern Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_5
-12,Votic (Kukkuzi Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_5
-map_6,NorthernSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-13,Northern Selkup (Upper-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-14,Northern Selkup (Upper-Tolka dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-15,Northern Selkup (Middle-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-16,Northern Selkup (Baikha dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-17,Northern Selkup (Karasino dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-18,Northern Selkup (Yelogui dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_6
-map_7,Ingrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-19,Ingrian (Lower Luga Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-20,Ingrian (Lower Luga Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-21,Ingrian (Lower Luga Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-22,Ingrian (Soikkola Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-23,Ingrian (Soikkola Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-24,Ingrian (Oredeži Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-25,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-26,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-27,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-28,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-29,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-30,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-31,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_7
-map_8,Nganasan_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-32,Nganasan,,,,ngan1291,traditional,rantanen2021uralic,features,feature,map_8
-map_9,NorthEstonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-33,North Estonian (Island dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_9
-34,North Estonian (Western dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_9
-35,North Estonian (Central dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_9
-36,North Estonian (Eastern dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_9
-37,North Estonian (Northeastern coastal dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_9
-map_10,ForestEnets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-38,Forest Enets,,,,fore1265,traditional,rantanen2021uralic,features,feature,map_10
-map_11,TundraEnets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-39,Tundra Enets,,,,tund1254,traditional,rantanen2021uralic,features,feature,map_11
-map_12,SkoltSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-40,Skolt Saami (Northern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-41,Skolt Saami (Northern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-42,Skolt Saami (Northern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-43,Skolt Saami (Northern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-44,Skolt Saami (Southern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-45,Skolt Saami (Southern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-46,Skolt Saami (Southern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_12
-map_13,SouthKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-47,South Khanty (Irtysh Khanty),,,,sout3226,traditional,rantanen2021uralic,features,feature,map_13
-48,South Khanty (Irtysh Khanty),,,,sout3226,traditional,rantanen2021uralic,features,feature,map_13
-49,South Khanty (Irtysh Khanty),,,,sout3226,traditional,rantanen2021uralic,features,feature,map_13
-50,South Khanty (Irtysh Khanty),,,,sout3226,traditional,rantanen2021uralic,features,feature,map_13
-map_14,KomiZyrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-51,Komi-Zyrian,,,,komi1268,traditional,rantanen2021uralic,features,feature,map_14
-52,Komi-Zyrian,,,,komi1268,traditional,rantanen2021uralic,features,feature,map_14
-53,Komi-Zyrian,,,,komi1268,traditional,rantanen2021uralic,features,feature,map_14
-map_15,KomiYazva_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-54,Komi-Yazva,,,,komi1277,traditional,rantanen2021uralic,features,feature,map_15
-map_16,Ludic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-55,Ludic (Northern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_16
-56,Ludic (Southern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_16
-map_17,NWMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-57,North-Western Mari,,,,yara1249,traditional,rantanen2021uralic,features,feature,map_17
-58,North-Western Mari,,,,yara1249,traditional,rantanen2021uralic,features,feature,map_17
-59,North-Western Mari,,,,yara1249,traditional,rantanen2021uralic,features,feature,map_17
-map_18,NorthSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-60,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-61,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-62,North Saami (Western Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-63,North Saami (Eastern Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-64,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-65,North Saami (Sea dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-66,North Saami (Western Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-67,North Saami (Eastern Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-68,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-69,North Saami (Sea dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-70,North Saami (Western Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-71,North Saami (Eastern Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_18
-map_19,MeadowMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-72,Meadow Mari,,,,gras1239,traditional,rantanen2021uralic,features,feature,map_19
-map_20,Finnish_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-73,Finnish (Southwestern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-74,Finnish (Tavastian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-75,Finnish (Southern Ostrobothnian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-76,Finnish (Mid- and Northern Ostrobothnian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-77,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-78,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-79,Finnish (Savonian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-80,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-81,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-82,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-83,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-84,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-85,Finnish (Savonian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-86,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-87,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-88,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-89,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-90,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-91,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-92,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-93,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-94,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-95,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-96,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-97,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-98,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_20
-map_21,UmeSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-99,Ume Saami (Western Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_21
-100,Ume Saami (Northern Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_21
-101,Ume Saami (Central Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_21
-map_22,KildinSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-102,Kildin Saami,,,,kild1236,traditional,rantanen2021uralic,features,feature,map_22
-map_23,SouthSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-103,South Saami (Central South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_23
-104,South Saami (Southern South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_23
-105,South Saami (Central South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_23
-106,South Saami (Northern South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_23
-map_24,Komi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-107,Komi (Izhma dialect group),,,,izhm1234,traditional,rantanen2021uralic,features,feature,map_24
-108,Komi (Vychegda dialect group),,,,cent2400,traditional,rantanen2021uralic,features,feature,map_24
-109,Komi (Kosa-Sysola dialect group),,,,sout3379,traditional,rantanen2021uralic,features,feature,map_24
-110,Komi (Kosa-Sysola dialect group),,,,sout3379,traditional,rantanen2021uralic,features,feature,map_24
-111,Komi (Kosa-Sysola dialect group),,,,sout3379,traditional,rantanen2021uralic,features,feature,map_24
-112,Komi (Kosa-Sysola dialect group),,,,sout3379,traditional,rantanen2021uralic,features,feature,map_24
-113,Komi (Inva dialect group),,,,komi1267,traditional,rantanen2021uralic,features,feature,map_24
-114,Komi (Izhma dialect group),,,,izhm1234,traditional,rantanen2021uralic,features,feature,map_24
-115,Komi (Izhma dialect group),,,,izhm1234,traditional,rantanen2021uralic,features,feature,map_24
-map_25,ErzyaMoksha_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-116,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-117,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-118,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-119,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-120,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-121,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-122,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-123,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-124,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-125,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-126,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-127,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-128,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-129,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-130,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-131,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-132,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-133,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-134,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_25
-135,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_25
-map_26,TomskregionSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-136,Tomsk region Selkup (Central Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
-137,Tomsk region Selkup (Central Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
-138,Tomsk region Selkup (Ket' Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
-139,Tomsk region Selkup (Ket' Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
-140,Tomsk region Selkup (Southern Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
-141,Tomsk region Selkup (Southern Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_26
+map_1,TomskregionSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+1,Tomsk region Selkup (Central Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
+2,Tomsk region Selkup (Ket' Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
+3,Tomsk region Selkup (Southern Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
+map_2,PiteSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+4,Pite Saami (Arves dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
+5,Pite Saami (Northern dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
+6,Pite Saami (Central dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
+7,Pite Saami (Southern dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
+map_3,AanaarSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+8,Aanaar Saami,,,,inar1241,traditional,rantanen2021uralic,features,feature,map_3
+map_4,MeadowMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+9,Meadow Mari,,,,gras1239,traditional,rantanen2021uralic,features,feature,map_4
+map_5,NorthKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+10,North Khanty (Obdorsk Khanty),,,,obdo1234,traditional,rantanen2021uralic,features,feature,map_5
+11,North Khanty (Ob Khanty),,,,khan1273,traditional,rantanen2021uralic,features,feature,map_5
+map_6,NorthMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+12,North Mansi,,,,mans1258,traditional,rantanen2021uralic,features,feature,map_6
+map_7,ErzyaMoksha_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+map_8,Erzya_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+13,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_7 map_8
+map_9,Moksha_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+14,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_7 map_9
+map_10,KamasMator_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+15,Kamas,,,,kama1351,traditional,rantanen2021uralic,features,feature,map_10
+16,Mator,,,,mato1250,traditional,rantanen2021uralic,features,feature,map_10
+map_11,UmeSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+17,Ume Saami (Western Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_11
+18,Ume Saami (Northern Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_11
+19,Ume Saami (Central Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_11
+map_12,Veps_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+20,Veps (Central Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
+21,Veps (Northern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
+22,Veps (Southern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
+map_13,KomiPermyak_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+23,Komi-Permyak,,,,komi1269,traditional,rantanen2021uralic,features,feature,map_13
+map_14,Finnish_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+24,Finnish (Southwestern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+25,Finnish (Tavastian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+26,Finnish (Southern Ostrobothnian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+27,Finnish (Mid- and Northern Ostrobothnian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+28,Finnish (Far-Northern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+29,Finnish (Savonian dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+30,Finnish (Southeastern dialects),,,,finn1318,traditional,rantanen2021uralic,features,feature,map_14
+map_15,HillMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+31,Hill Mari,,,,kozy1238,traditional,rantanen2021uralic,features,feature,map_15
+map_16,SouthSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+32,South Saami (Central South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_16
+33,South Saami (Southern South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_16
+34,South Saami (Northern South Saami),,,,sout2674,traditional,rantanen2021uralic,features,feature,map_16
+map_17,Nganasan_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+35,Nganasan,,,,ngan1291,traditional,rantanen2021uralic,features,feature,map_17
+map_18,ForestEnets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+36,Forest Enets,,,,fore1265,traditional,rantanen2021uralic,features,feature,map_18
+map_19,SouthKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+37,South Khanty (Irtysh Khanty),,,,sout3226,traditional,rantanen2021uralic,features,feature,map_19
+map_20,NorthEstonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+38,North Estonian (Island dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_20
+39,North Estonian (Western dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_20
+40,North Estonian (Central dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_20
+41,North Estonian (Eastern dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_20
+42,North Estonian (Northeastern coastal dialects),,,,esto1258,traditional,rantanen2021uralic,features,feature,map_20
+map_21,LuleSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+43,Lule Saami (Forest Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_21
+44,Lule Saami (Southern Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_21
+45,Lule Saami (Central Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_21
+46,Lule Saami (Northern Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_21
+47,Lule Saami (Mixed Lule Saami),,,,lule1254,traditional,rantanen2021uralic,features,feature,map_21
+map_22,ForestNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+48,Forest Nenets,,,,fore1274,traditional,rantanen2021uralic,features,feature,map_22
+map_23,SouthEstonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+49,South Estonian (Mulgi dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+50,South Estonian (Tarto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+51,South Estonian (Võro dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+52,South Estonian (Seto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+53,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+54,South Estonian (Seto),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+map_24,NorthernSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+55,Northern Selkup (Upper-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+56,Northern Selkup (Upper-Tolka dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+57,Northern Selkup (Middle-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+58,Northern Selkup (Baikha dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+59,Northern Selkup (Karasino dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+60,Northern Selkup (Yelogui dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+map_25,NorthSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+61,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
+62,North Saami (Western Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
+63,North Saami (Eastern Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
+64,North Saami (Sea dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
+65,Moksha (Central Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_9
+66,Moksha (South-Eastern Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_9
+67,Moksha (Transitional Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_9
+68,Moksha (Western Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_9
+69,Erzya (Mixed Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_8
+70,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_8
+71,Erzya (South-Eastern Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_8
+72,Erzya (Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_8
+73,Erzya (Central Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_8
+map_26,KildinSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+74,Kildin Saami,,,,kild1236,traditional,rantanen2021uralic,features,feature,map_26
 map_27,Udmurt_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-142,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-143,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-144,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-145,Udmurt (Central Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-146,Udmurt (Central Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-147,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-148,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-149,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-150,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-151,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-152,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-153,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-154,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-155,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-156,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-157,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-158,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-159,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-160,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-161,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-162,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-163,Udmurt (Besserman Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-164,Udmurt (Besserman Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-165,Udmurt (Besserman Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-166,Udmurt (Besserman Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-167,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-168,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-169,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-170,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-171,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-172,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-173,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-174,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-175,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
-map_28,KamasMator_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-176,Kamas,,,,kama1351,traditional,rantanen2021uralic,features,feature,map_28
-177,Mator,,,,mato1250,traditional,rantanen2021uralic,features,feature,map_28
-map_29,Karelian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-178,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-179,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-180,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-181,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-182,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-183,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-184,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-185,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-186,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-187,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-188,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-189,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-190,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-191,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-192,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-193,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-194,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-195,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-196,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-197,Karelian (South and Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-198,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-199,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-200,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-201,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-202,Karelian (South and Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-203,Karelian (South and Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-204,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-205,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-206,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-207,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-208,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-209,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-210,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-211,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-212,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-213,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-214,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-215,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-216,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-217,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-218,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-219,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-220,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-221,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-222,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_29
-map_30,HillMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-223,Hill Mari,,,,kozy1238,traditional,rantanen2021uralic,features,feature,map_30
-map_31,TundraNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-224,Tundra Nenets,,,,nene1249,traditional,rantanen2021uralic,features,feature,map_31
-map_32,SouthEstonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-225,South Estonian (Mulgi dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-226,South Estonian (Tarto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-227,South Estonian (Võro dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-228,South Estonian (Seto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-229,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-230,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-231,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-232,South Estonian (Seto),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-233,South Estonian (Seto),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-234,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-235,South Estonian (Seto),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-236,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_32
-map_33,KomiPermyak_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-237,Komi-Permyak,,,,komi1269,traditional,rantanen2021uralic,features,feature,map_33
-238,Komi-Permyak,,,,komi1269,traditional,rantanen2021uralic,features,feature,map_33
-239,Komi-Permyak,,,,komi1269,traditional,rantanen2021uralic,features,feature,map_33
-map_34,EasternMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-240,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_34
-241,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_34
-242,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_34
-243,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_34
-244,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_34
-map_35,WestSouthMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-245,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-246,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-247,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-248,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-249,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-250,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-251,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_35
-map_36,EastKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-252,East Khanty (Surgut Khanty),,,,surg1248,traditional,rantanen2021uralic,features,feature,map_36
-253,East Khanty (Vakh-Vasyugan Khanty),,,,fare1244,traditional,rantanen2021uralic,features,feature,map_36
-map_37,PiteSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-254,Pite Saami (Arves dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_37
-255,Pite Saami (Northern dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_37
-256,Pite Saami (Central dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_37
-257,Pite Saami (Southern dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_37
-map_38,Veps_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-258,Veps (Central Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_38
-259,Veps (Northern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_38
-260,Veps (Central Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_38
-261,Veps (Southern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_38
-map_39,AanaarSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-262,Aanaar Saami,,,,inar1241,traditional,rantanen2021uralic,features,feature,map_39
+75,Udmurt (Northern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
+76,Udmurt (Central Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
+77,Udmurt (Southern Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
+78,Udmurt (Besserman Udmurt),,,,udmu1245,traditional,rantanen2021uralic,features,feature,map_27
+map_28,KomiYazva_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+79,Komi-Yazva,,,,komi1277,traditional,rantanen2021uralic,features,feature,map_28
+map_29,SkoltSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+80,Skolt Saami (Northern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_29
+81,Skolt Saami (Southern Skolt Saami),,,,skol1241,traditional,rantanen2021uralic,features,feature,map_29
+map_30,KomiZyrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+82,Komi-Zyrian,,,,komi1268,traditional,rantanen2021uralic,features,feature,map_30
+map_31,Ingrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+83,Ingrian (Lower Luga Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
+84,Ingrian (Soikkola Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
+85,Ingrian (Oredeži Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
+86,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
+map_32,Ludic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+87,Ludic (Northern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_32
+88,Ludic (Southern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_32
+map_33,NWMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+89,North-Western Mari,,,,yara1249,traditional,rantanen2021uralic,features,feature,map_33
+map_34,Komi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+90,Komi (Izhma dialect group),,,,izhm1234,traditional,rantanen2021uralic,features,feature,map_34
+91,Komi (Vychegda dialect group),,,,cent2400,traditional,rantanen2021uralic,features,feature,map_34
+92,Komi (Kosa-Sysola dialect group),,,,sout3379,traditional,rantanen2021uralic,features,feature,map_34
+93,Komi (Inva dialect group),,,,komi1267,traditional,rantanen2021uralic,features,feature,map_34
+map_35,TundraNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+94,Tundra Nenets,,,,nene1249,traditional,rantanen2021uralic,features,feature,map_35
+map_36,Livonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+95,Livonian,,,,livv1244,traditional,rantanen2021uralic,features,feature,map_36
+map_37,Votic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+96,Votic (Western Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
+97,Votic (Eastern Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
+98,Votic (Kukkuzi Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
+map_38,TundraEnets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+99,Tundra Enets,,,,tund1254,traditional,rantanen2021uralic,features,feature,map_38
+map_39,EasternMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+100,Eastern Mari,,,,east2328,traditional,rantanen2021uralic,features,feature,map_39
 map_40,EastMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-263,East Mansi,,,,east2879,traditional,rantanen2021uralic,features,feature,map_40
-map_41,NorthKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-264,North Khanty (Obdorsk Khanty),,,,obdo1234,traditional,rantanen2021uralic,features,feature,map_41
-265,North Khanty (Ob Khanty),,,,khan1273,traditional,rantanen2021uralic,features,feature,map_41
-map_42,Moksha_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-266,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-267,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-268,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-269,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-270,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-271,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-272,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-273,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-274,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-275,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-276,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-277,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-278,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-279,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-280,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-281,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-282,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-283,Moksha,,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-284,Moksha (Central Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-285,Moksha (South-Eastern Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-286,Moksha (Transitional Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-287,Moksha (Western Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-288,Moksha (Transitional Moksha),,,,moks1248,traditional,rantanen2021uralic,features,feature,map_42
-map_43,Erzya_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-289,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-290,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-291,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-292,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-293,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-294,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-295,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-296,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-297,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-298,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-299,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-300,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-301,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-302,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-303,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-304,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-305,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-306,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-307,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-308,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-309,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-310,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-311,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-312,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-313,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-314,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-315,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-316,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-317,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-318,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-319,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-320,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-321,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-322,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-323,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-324,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-325,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-326,Erzya,,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-327,Erzya (Mixed Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-328,Erzya (Mixed Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-329,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-330,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-331,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-332,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-333,Erzya (North-Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-334,Erzya (South-Eastern Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-335,Erzya (South-Eastern Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-336,Erzya (South-Eastern Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-337,Erzya (Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-338,Erzya (Central Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
-339,Erzya (Western Erzya),,,,erzy1239,traditional,rantanen2021uralic,features,feature,map_43
+101,East Mansi,,,,east2879,traditional,rantanen2021uralic,features,feature,map_40
+map_41,EastKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+102,East Khanty (Surgut Khanty),,,,surg1248,traditional,rantanen2021uralic,features,feature,map_41
+103,East Khanty (Vakh-Vasyugan Khanty),,,,fare1244,traditional,rantanen2021uralic,features,feature,map_41
+map_42,WestSouthMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+104,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_42
+map_43,Karelian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
+105,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+106,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+107,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+108,Karelian (South and Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+109,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43

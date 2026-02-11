@@ -1,51 +1,51 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
-cent2400,Central Zyryan,,,,cent2400,,108,dialect,Uralic,dialects
-east2879,East Mansi,,,,east2879,,263,dialect,Uralic,dialects
-gras1239,Grassland Mari,,,,gras1239,,72,dialect,Uralic,dialects
-izhm1234,Izhma,,,,izhm1234,,107 114 115,dialect,Uralic,dialects
-kozy1238,Kozymodemyan,,,,kozy1238,,223,dialect,Uralic,dialects
-nort3401,North Zyryan,,,,nort3401,,107 114 115,dialect,Uralic,dialects
-sout3379,South Zyryan,,,,sout3379,,109 110 111 112,dialect,Uralic,dialects
-yara1249,Yaran,,,,yara1249,,57 58 59,dialect,Uralic,dialects
-cent2322,Central Mansi,,61.1432,62.4023,cent2322,,263,language,Uralic,languages
-east2328,Eastern Mari,,55.8307,48.405,east2328,,72 240 241 242 243 244,language,Uralic,languages
-erzy1239,Erzya,,52.8548,45.3901,erzy1239,,116 118 120 122 124 126 128 130 132 134 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339,language,Uralic,languages
-esto1258,Estonian,,58.55,25.82,esto1258,,33 34 35 36 37,language,Uralic,languages
-fare1244,Vach-Vasjugan,,60.10378,79.873651,fare1244,,253,language,Uralic,languages
-finn1318,Finnish,,64.7628,25.5577,finn1318,,73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98,language,Uralic,languages
-fore1265,Forest Enets,,68.6,86.5,fore1265,,38,language,Uralic,languages
-fore1274,Forest Nenets,,63.72,71.97,fore1274,,7,language,Uralic,languages
-inar1241,Inari Saami,,69.4229,27.8658,inar1241,,262,language,Uralic,languages
-ingr1248,Ingrian,,59.47403,29.71145,ingr1248,,19 20 21 22 23 24 25 26 27 28 29 30 31,language,Uralic,languages
-kama1351,Kamas-Koibal,,55.07,94.83,kama1351,,176,language,Uralic,languages
-kare1335,Karelian,,65.1691,30.8655,kare1335,,178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222,language,Uralic,languages
-khan1273,Kazym-Berezover-Suryskarer Khanty,,62.4308,66.1218,khan1273,,265,language,Uralic,languages
-kild1236,Kildin Saami,,68.2158,35.8348,kild1236,,102,language,Uralic,languages
-komi1268,Komi-Zyrian,,64.0527,54.946,komi1268,,51 52 53 107 108 109 110 111 112 114 115,language,Uralic,languages
-komi1269,Komi-Permyak,,59.6602,54.7959,komi1269,,237 238 239,language,Uralic,languages
-komi1277,Komi-Yazva,,60.717,55.756,komi1277,,54,language,Uralic,languages
-livv1244,Liv,,57.566,22.0262,livv1244,,8,language,Uralic,languages
-ludi1246,Ludian,,61.853,33.7346,ludi1246,,55 56,language,Uralic,languages
-lule1254,Lule Saami,,67.2759,17.8057,lule1254,,1 2 3 4 5 6,language,Uralic,languages
-mans1258,Northern Mansi,,64.4118,61.344,mans1258,,9,language,Uralic,languages
-mato1250,Mator-Taigi-Karagas,,53.4349,102.856,mato1250,,177,language,Uralic,languages
-moks1248,Moksha,,54.1855,42.6728,moks1248,,117 119 121 123 125 127 129 131 133 135 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288,language,Uralic,languages
-nene1249,Tundra Nenets,,66.1775,71.0234,nene1249,,224,language,Uralic,languages
-ngan1291,Nganasan,,73.1354,86.2106,ngan1291,,32,language,Uralic,languages
-nort2671,North Saami,,68.725,22.1113,nort2671,,60 61 62 63 64 65 66 67 68 69 70 71,language,Uralic,languages
-obdo1234,Obdorsk Khanty,,66.31,67.09,obdo1234,,264,language,Uralic,languages
-pite1240,Pite Saami,,66.4011,17.4261,pite1240,,254 255 256 257,language,Uralic,languages
-selk1253,Selkup,,59.9409,82.3004,selk1253,,13 14 15 16 17 18 136 137 138 139 140 141,language,Uralic,languages
-skol1241,Skolt Saami,,68.8326,29.7204,skol1241,,40 41 42 43 44 45 46,language,Uralic,languages
-sout2674,South Saami,,62.8801,13.7006,sout2674,,103 104 105 106,language,Uralic,languages
-sout2679,South Estonian,,57.85,27.0,sout2679,,225 226 227 228 229 230 231 232 233 234 235 236,language,Uralic,languages
-sout3226,Southern Khanty,,59.500948,69.085972,sout3226,,47 48 49 50,language,Uralic,languages
-sout3253,Southern Mansi,,58.4362,65.5664,sout3253,,245 246 247 248 249 250 251,language,Uralic,languages
-surg1248,Surgut Khanty,,61.25,73.35,surg1248,,252,language,Uralic,languages
-tund1254,Tundra Enets,,70.36,84.08,tund1254,,39,language,Uralic,languages
-udmu1245,Udmurt,,56.12921,52.63548,udmu1245,,142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175,language,Uralic,languages
-umes1235,Ume Saami,,64.6383,18.646,umes1235,,99 100 101,language,Uralic,languages
-veps1250,Veps,,60.3353,34.7865,veps1250,,258 259 260 261,language,Uralic,languages
-voti1245,Votic,,59.3802,28.6235,voti1245,,10 11 12,language,Uralic,languages
-west2392,Western Mari,,56.22,46.569,west2392,,57 58 59 223,language,Uralic,languages
-ural1272,Uralic,,,,ural1272,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339,family,,families
+cent2400,Central Zyryan,,,,cent2400,,91,dialect,Uralic,dialects
+east2879,East Mansi,,,,east2879,,101,dialect,Uralic,dialects
+gras1239,Grassland Mari,,,,gras1239,,9,dialect,Uralic,dialects
+izhm1234,Izhma,,,,izhm1234,,90,dialect,Uralic,dialects
+kozy1238,Kozymodemyan,,,,kozy1238,,31,dialect,Uralic,dialects
+nort3401,North Zyryan,,,,nort3401,,90,dialect,Uralic,dialects
+sout3379,South Zyryan,,,,sout3379,,92,dialect,Uralic,dialects
+yara1249,Yaran,,,,yara1249,,89,dialect,Uralic,dialects
+cent2322,Central Mansi,,61.1432,62.4023,cent2322,,101,language,Uralic,languages
+east2328,Eastern Mari,,55.8307,48.405,east2328,,9 100,language,Uralic,languages
+erzy1239,Erzya,,52.8548,45.3901,erzy1239,,13 69 70 71 72 73,language,Uralic,languages
+esto1258,Estonian,,58.55,25.82,esto1258,,38 39 40 41 42,language,Uralic,languages
+fare1244,Vach-Vasjugan,,60.10378,79.873651,fare1244,,103,language,Uralic,languages
+finn1318,Finnish,,64.7628,25.5577,finn1318,,24 25 26 27 28 29 30,language,Uralic,languages
+fore1265,Forest Enets,,68.6,86.5,fore1265,,36,language,Uralic,languages
+fore1274,Forest Nenets,,63.72,71.97,fore1274,,48,language,Uralic,languages
+inar1241,Inari Saami,,69.4229,27.8658,inar1241,,8,language,Uralic,languages
+ingr1248,Ingrian,,59.47403,29.71145,ingr1248,,83 84 85 86,language,Uralic,languages
+kama1351,Kamas-Koibal,,55.07,94.83,kama1351,,15,language,Uralic,languages
+kare1335,Karelian,,65.1691,30.8655,kare1335,,105 106 107 108 109,language,Uralic,languages
+khan1273,Kazym-Berezover-Suryskarer Khanty,,62.4308,66.1218,khan1273,,11,language,Uralic,languages
+kild1236,Kildin Saami,,68.2158,35.8348,kild1236,,74,language,Uralic,languages
+komi1268,Komi-Zyrian,,64.0527,54.946,komi1268,,82 90 91 92,language,Uralic,languages
+komi1269,Komi-Permyak,,59.6602,54.7959,komi1269,,23,language,Uralic,languages
+komi1277,Komi-Yazva,,60.717,55.756,komi1277,,79,language,Uralic,languages
+livv1244,Liv,,57.566,22.0262,livv1244,,95,language,Uralic,languages
+ludi1246,Ludian,,61.853,33.7346,ludi1246,,87 88,language,Uralic,languages
+lule1254,Lule Saami,,67.2759,17.8057,lule1254,,43 44 45 46 47,language,Uralic,languages
+mans1258,Northern Mansi,,64.4118,61.344,mans1258,,12,language,Uralic,languages
+mato1250,Mator-Taigi-Karagas,,53.4349,102.856,mato1250,,16,language,Uralic,languages
+moks1248,Moksha,,54.1855,42.6728,moks1248,,14 65 66 67 68,language,Uralic,languages
+nene1249,Tundra Nenets,,66.1775,71.0234,nene1249,,94,language,Uralic,languages
+ngan1291,Nganasan,,73.1354,86.2106,ngan1291,,35,language,Uralic,languages
+nort2671,North Saami,,68.725,22.1113,nort2671,,61 62 63 64,language,Uralic,languages
+obdo1234,Obdorsk Khanty,,66.31,67.09,obdo1234,,10,language,Uralic,languages
+pite1240,Pite Saami,,66.4011,17.4261,pite1240,,4 5 6 7,language,Uralic,languages
+selk1253,Selkup,,59.9409,82.3004,selk1253,,1 2 3 55 56 57 58 59 60,language,Uralic,languages
+skol1241,Skolt Saami,,68.8326,29.7204,skol1241,,80 81,language,Uralic,languages
+sout2674,South Saami,,62.8801,13.7006,sout2674,,32 33 34,language,Uralic,languages
+sout2679,South Estonian,,57.85,27.0,sout2679,,49 50 51 52 53 54,language,Uralic,languages
+sout3226,Southern Khanty,,59.500948,69.085972,sout3226,,37,language,Uralic,languages
+sout3253,Southern Mansi,,58.4362,65.5664,sout3253,,104,language,Uralic,languages
+surg1248,Surgut Khanty,,61.25,73.35,surg1248,,102,language,Uralic,languages
+tund1254,Tundra Enets,,70.36,84.08,tund1254,,99,language,Uralic,languages
+udmu1245,Udmurt,,56.12921,52.63548,udmu1245,,75 76 77 78,language,Uralic,languages
+umes1235,Ume Saami,,64.6383,18.646,umes1235,,17 18 19,language,Uralic,languages
+veps1250,Veps,,60.3353,34.7865,veps1250,,20 21 22,language,Uralic,languages
+voti1245,Votic,,59.3802,28.6235,voti1245,,96 97 98,language,Uralic,languages
+west2392,Western Mari,,56.22,46.569,west2392,,31 89,language,Uralic,languages
+ural1272,Uralic,,,,ural1272,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109,family,,families
