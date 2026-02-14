@@ -35,3 +35,13 @@ cldfbench geojson.glottolog_distance cldf --glottolog-version v5.2 --format tsv 
 ```
 komi1277: ▇ 1.03
 ```
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_rantanen2021uralic.py vX.Y
+```
+and follow the instructions given in the output of the command.

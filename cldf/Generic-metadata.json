@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/Glottography/rantanen2021uralic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1",
+            "dc:created": "v1.0.1-1-ge7abf4f",
             "dc:title": "Repository"
         },
         {

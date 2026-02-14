@@ -8,15 +8,10 @@ bs4==0.0.2
 certifi==2024.8.30
 chardet==5.2.0
 cldfbench==1.14.1
--e git+https://github.com/Glottography/asher2007world@632bd62bd5c68910d8b54762b7c3caa2c92d1a57#egg=cldfbench_asher2007world
--e git+https://github.com/Glottography/bowern2012pamanyungan@e02e5065382e7d1e63892018639ae56200f04c17#egg=cldfbench_bowern2012pamanyungan
--e git+https://github.com/Glottography/bowern2021australia@ed0e7fb53ec1c86eb775561ceac902f62135a013#egg=cldfbench_bowern2021australia
--e git+https://github.com/Glottography/carling2025diacl.git@4b9b35c18435aa5d249c5e6347208d3cc0c54fd7#egg=cldfbench_carling2025diacl
--e git+https://github.com/Glottography/dedio2019britain@694cf66f670f3852f5a76978837e480d2a725270#egg=cldfbench_dedio2019britain
 cldfcatalog==1.5.1
 cldfgeojson==2.0.0
 cldfzenodo==2.1.2
-click==8.1.7
+click==8.3.1
 clldutils==3.24.1
 colorama==0.4.6
 colorlog==6.9.0
@@ -41,7 +36,7 @@ pluggy==1.5.0
 pybtex==0.24.0
 pycldf==1.39.0
 pycountry==24.6.1
--e git+https://github.com/glottography/pyglottography@29f53b2969c3398cf8d128887447a0b1297e5819#egg=pyglottography
+pyglottography==2.0.3
 pyglottolog==3.14.0
 Pygments==2.18.0
 pylatexenc==2.10
