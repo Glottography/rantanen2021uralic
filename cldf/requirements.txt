@@ -4,18 +4,16 @@ appdirs==1.4.4
 attrs==24.2.0
 babel==2.16.0
 bibtexparser==2.0.0b7
-bs4==0.0.2
 certifi==2024.8.30
-chardet==5.2.0
-cldfbench==1.14.1
+-e git+https://github.com/cldf/cldfbench@6cc1bce15c889b9ec167f8cf5e116625b0f109cf#egg=cldfbench
 cldfcatalog==1.5.1
-cldfgeojson==2.0.0
+cldfgeojson==2.0.1
 cldfzenodo==2.1.2
 click==8.3.1
-clldutils==3.24.1
+clldutils==3.24.3
 colorama==0.4.6
 colorlog==6.9.0
-csvw==3.6.0
+-e git+https://github.com/cldf/csvw@866ad4a2f6b3e63066f2f4c4d0ee44036fb1ba88#egg=csvw
 gitdb==4.0.11
 greenlet==3.1.1
 idna==3.10
@@ -30,14 +28,11 @@ nameparser==1.1.3
 newick==1.9.0
 numpy==2.1.3
 openpyxl==3.1.5
-packaging==24.2
-platformdirs==4.3.6
 pluggy==1.5.0
-pybtex==0.24.0
-pycldf==1.39.0
+-e git+https://github.com/cldf/pycldf@68263b9a1801c3865968308f61f12512ebf59de9#egg=pycldf
 pycountry==24.6.1
 pyglottography==2.0.3
-pyglottolog==3.14.0
+-e git+https://github.com/glottolog/pyglottolog@8779af14ff0121373485d9ac296ac60f41accbf7#egg=pyglottolog
 Pygments==2.18.0
 pylatexenc==2.10
 pytest==8.3.3
@@ -46,19 +41,16 @@ pytz==2024.2
 rasterio==1.4.2
 rdflib==7.1.1
 referencing==0.35.1
-requests==2.32.3
 rfc3986==1.5.0
 shapely==2.0.6
 simplepybtex==0.1.0
 six==1.16.0
 smmap==5.0.1
-soupsieve==2.6
 spherely==0.1.0
 SQLAlchemy==1.4.54
 tabulate==0.9.0
 termcolor==2.5.0
 tqdm==4.67.0
 uritemplate==4.1.1
-urllib3==2.2.3
+wcwidth==0.6.0
 xlrd==2.0.1
-zenodoclient==0.5.1

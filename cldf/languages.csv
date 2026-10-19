@@ -1,11 +1,37 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+cent1812,Central Veps,,,,cent1812,,20,dialect,Uralic,dialects
+cent2328,Central Selkup,,59.8903,82.0129,cent2328,,1,dialect,Uralic,dialects
 cent2400,Central Zyryan,,,,cent2400,,91,dialect,Uralic,dialects
+east2327,East Vod,,,,east2327,,97,dialect,Uralic,dialects
 east2879,East Mansi,,,,east2879,,101,dialect,Uralic,dialects
 gras1239,Grassland Mari,,,,gras1239,,9,dialect,Uralic,dialects
 izhm1234,Izhma,,,,izhm1234,,90,dialect,Uralic,dialects
+kety1234,Kety-Central-Southern Selkup,,,,kety1234,,1 2 3,dialect,Uralic,dialects
+kety1235,Kety-Central Selkup,,,,kety1235,,1 2,dialect,Uralic,dialects
+khav1238,Hevaha,,,,khav1238,,86,dialect,Uralic,dialects
 kozy1238,Kozymodemyan,,,,kozy1238,,31,dialect,Uralic,dialects
+kukk1240,Kukkuzi,,,,kukk1240,,98,dialect,Uralic,dialects
+lowe1392,Lower Luga,,,,lowe1392,,83,dialect,Uralic,dialects
+mulg1249,Mulgi,,,,mulg1249,,49,dialect,Uralic,dialects
+nort2673,Northern Karelian,,,,nort2673,,105,dialect,Uralic,dialects
 nort3401,North Zyryan,,,,nort3401,,90,dialect,Uralic,dialects
+ored1238,Oredezhi,,,,ored1238,,85,dialect,Uralic,dialects
+prio1238,Prionezh,,,,prio1238,,21,dialect,Uralic,dialects
+seto1243,Võro-Seto,,,,seto1243,,51 52 53 54,dialect,Uralic,dialects
+seto1244,Seto,,,,seto1244,,52 54,dialect,Uralic,dialects
+sout2676,Southern Karelian,,,,sout2676,,110,dialect,Uralic,dialects
+sout2680,Southern Veps,,,,sout2680,,22,dialect,Uralic,dialects
+sout3262,Southern Selkup,,58.6626,85.8581,sout3262,,3,dialect,Uralic,dialects
 sout3379,South Zyryan,,,,sout3379,,92,dialect,Uralic,dialects
+soyk1238,Soikkola,,,,soyk1238,,84,dialect,Uralic,dialects
+sred1238,Srednyaya Ob-Ket,,,,sred1238,,2,dialect,Uralic,dialects
+tart1244,Tartu South Estonian,,,,tart1244,,50,dialect,Uralic,dialects
+tazz1244,Taz-Turukhan,,65.7035,82.4441,tazz1244,,55 56 57 58 59 60,dialect,Uralic,dialects
+tver1240,Tver,,,,tver1240,,110,dialect,Uralic,dialects
+ugan1245,Ugandi,,,,ugan1245,,50 51 52 53 54,dialect,Uralic,dialects
+voro1241,Võro-Mulgi-Tartu,,,,voro1241,,49 50 51 52 53 54,dialect,Uralic,dialects
+voro1243,Võro,,,,voro1243,,51 53,dialect,Uralic,dialects
+west2391,West Vod,,,,west2391,,96,dialect,Uralic,dialects
 yara1249,Yaran,,,,yara1249,,89,dialect,Uralic,dialects
 cent2322,Central Mansi,,61.1432,62.4023,cent2322,,101,language,Uralic,languages
 east2328,Eastern Mari,,55.8307,48.405,east2328,,9 100,language,Uralic,languages
@@ -16,19 +42,20 @@ finn1318,Finnish,,64.7628,25.5577,finn1318,,24 25 26 27 28 29 30,language,Uralic
 fore1265,Forest Enets,,68.6,86.5,fore1265,,36,language,Uralic,languages
 fore1274,Forest Nenets,,63.72,71.97,fore1274,,48,language,Uralic,languages
 inar1241,Inari Saami,,69.4229,27.8658,inar1241,,8,language,Uralic,languages
-ingr1248,Ingrian,,59.47403,29.71145,ingr1248,,83 84 85 86,language,Uralic,languages
+ingr1248,Ingrian,,59.47403,29.71145,ingr1248,,83 84 85 86 98,language,Uralic,languages
 kama1351,Kamas-Koibal,,55.07,94.83,kama1351,,15,language,Uralic,languages
-kare1335,Karelian,,65.1691,30.8655,kare1335,,105 106 107 108 109,language,Uralic,languages
+kare1335,Karelian,,65.1691,30.8655,kare1335,,105 106 107 108 110,language,Uralic,languages
 khan1273,Kazym-Berezover-Suryskarer Khanty,,62.4308,66.1218,khan1273,,11,language,Uralic,languages
 kild1236,Kildin Saami,,68.2158,35.8348,kild1236,,74,language,Uralic,languages
 komi1268,Komi-Zyrian,,64.0527,54.946,komi1268,,82 90 91 92,language,Uralic,languages
 komi1269,Komi-Permyak,,59.6602,54.7959,komi1269,,23,language,Uralic,languages
 komi1277,Komi-Yazva,,60.717,55.756,komi1277,,79,language,Uralic,languages
+livv1243,Livvi,,61.6565,29.0726,livv1243,,109,language,Uralic,languages
 livv1244,Liv,,57.566,22.0262,livv1244,,95,language,Uralic,languages
 ludi1246,Ludian,,61.853,33.7346,ludi1246,,87 88,language,Uralic,languages
 lule1254,Lule Saami,,67.2759,17.8057,lule1254,,43 44 45 46 47,language,Uralic,languages
 mans1258,Northern Mansi,,64.4118,61.344,mans1258,,12,language,Uralic,languages
-mato1250,Mator-Taigi-Karagas,,53.4349,102.856,mato1250,,16,language,Uralic,languages
+mato1250,Mator-Taigi-Karagas,,53.403,92.9339,mato1250,,16,language,Uralic,languages
 moks1248,Moksha,,54.1855,42.6728,moks1248,,14 65 66 67 68,language,Uralic,languages
 nene1249,Tundra Nenets,,66.1775,71.0234,nene1249,,94,language,Uralic,languages
 ngan1291,Nganasan,,73.1354,86.2106,ngan1291,,35,language,Uralic,languages
@@ -46,6 +73,6 @@ tund1254,Tundra Enets,,70.36,84.08,tund1254,,99,language,Uralic,languages
 udmu1245,Udmurt,,56.12921,52.63548,udmu1245,,75 76 77 78,language,Uralic,languages
 umes1235,Ume Saami,,64.6383,18.646,umes1235,,17 18 19,language,Uralic,languages
 veps1250,Veps,,60.3353,34.7865,veps1250,,20 21 22,language,Uralic,languages
-voti1245,Votic,,59.3802,28.6235,voti1245,,96 97 98,language,Uralic,languages
+voti1245,Votic,,59.3802,28.6235,voti1245,,96 97,language,Uralic,languages
 west2392,Western Mari,,56.22,46.569,west2392,,31 89,language,Uralic,languages
-ural1272,Uralic,,,,ural1272,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109,family,,families
+ural1272,Uralic,,,,ural1272,,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110,family,,families

@@ -1,8 +1,8 @@
 ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,Map_IDs
 map_1,TomskregionSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-1,Tomsk region Selkup (Central Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
-2,Tomsk region Selkup (Ket' Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
-3,Tomsk region Selkup (Southern Selkup),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_1
+1,Tomsk region Selkup (Central Selkup),,,,cent2328,traditional,rantanen2021uralic,features,feature,map_1
+2,Tomsk region Selkup (Ket' Selkup),,,,sred1238,traditional,rantanen2021uralic,features,feature,map_1
+3,Tomsk region Selkup (Southern Selkup),,,,sout3262,traditional,rantanen2021uralic,features,feature,map_1
 map_2,PiteSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 4,Pite Saami (Arves dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
 5,Pite Saami (Northern dialect),,,,pite1240,traditional,rantanen2021uralic,features,feature,map_2
@@ -30,9 +30,9 @@ map_11,UmeSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 18,Ume Saami (Northern Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_11
 19,Ume Saami (Central Ume Saami),,,,umes1235,traditional,rantanen2021uralic,features,feature,map_11
 map_12,Veps_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-20,Veps (Central Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
-21,Veps (Northern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
-22,Veps (Southern Veps),,,,veps1250,traditional,rantanen2021uralic,features,feature,map_12
+20,Veps (Central Veps),,,,cent1812,traditional,rantanen2021uralic,features,feature,map_12
+21,Veps (Northern Veps),,,,prio1238,traditional,rantanen2021uralic,features,feature,map_12
+22,Veps (Southern Veps),,,,sout2680,traditional,rantanen2021uralic,features,feature,map_12
 map_13,KomiPermyak_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 23,Komi-Permyak,,,,komi1269,traditional,rantanen2021uralic,features,feature,map_13
 map_14,Finnish_traditional_OGUL,,,,,,rantanen2021uralic,,map,
@@ -70,19 +70,19 @@ map_21,LuleSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 map_22,ForestNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 48,Forest Nenets,,,,fore1274,traditional,rantanen2021uralic,features,feature,map_22
 map_23,SouthEstonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-49,South Estonian (Mulgi dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
-50,South Estonian (Tarto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
-51,South Estonian (Võro dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
-52,South Estonian (Seto dialect),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
-53,South Estonian (Võro),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
-54,South Estonian (Seto),,,,sout2679,traditional,rantanen2021uralic,features,feature,map_23
+49,South Estonian (Mulgi dialect),,,,mulg1249,traditional,rantanen2021uralic,features,feature,map_23
+50,South Estonian (Tarto dialect),,,,tart1244,traditional,rantanen2021uralic,features,feature,map_23
+51,South Estonian (Võro dialect),,,,voro1243,traditional,rantanen2021uralic,features,feature,map_23
+52,South Estonian (Seto dialect),,,,seto1244,traditional,rantanen2021uralic,features,feature,map_23
+53,South Estonian (Võro),,,,voro1243,traditional,rantanen2021uralic,features,feature,map_23
+54,South Estonian (Seto),,,,seto1244,traditional,rantanen2021uralic,features,feature,map_23
 map_24,NorthernSelkup_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-55,Northern Selkup (Upper-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
-56,Northern Selkup (Upper-Tolka dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
-57,Northern Selkup (Middle-Taz dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
-58,Northern Selkup (Baikha dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
-59,Northern Selkup (Karasino dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
-60,Northern Selkup (Yelogui dialect),,,,selk1253,traditional,rantanen2021uralic,features,feature,map_24
+55,Northern Selkup (Upper-Taz dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
+56,Northern Selkup (Upper-Tolka dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
+57,Northern Selkup (Middle-Taz dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
+58,Northern Selkup (Baikha dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
+59,Northern Selkup (Karasino dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
+60,Northern Selkup (Yelogui dialect),,,,tazz1244,traditional,rantanen2021uralic,features,feature,map_24
 map_25,NorthSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 61,North Saami (Torne dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
 62,North Saami (Western Inland dialect),,,,nort2671,traditional,rantanen2021uralic,features,feature,map_25
@@ -112,10 +112,10 @@ map_29,SkoltSaami_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 map_30,KomiZyrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 82,Komi-Zyrian,,,,komi1268,traditional,rantanen2021uralic,features,feature,map_30
 map_31,Ingrian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-83,Ingrian (Lower Luga Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
-84,Ingrian (Soikkola Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
-85,Ingrian (Oredeži Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
-86,Ingrian (Hevaha Ingrian),,,,ingr1248,traditional,rantanen2021uralic,features,feature,map_31
+83,Ingrian (Lower Luga Ingrian),,,,lowe1392,traditional,rantanen2021uralic,features,feature,map_31
+84,Ingrian (Soikkola Ingrian),,,,soyk1238,traditional,rantanen2021uralic,features,feature,map_31
+85,Ingrian (Oredeži Ingrian),,,,ored1238,traditional,rantanen2021uralic,features,feature,map_31
+86,Ingrian (Hevaha Ingrian),,,,khav1238,traditional,rantanen2021uralic,features,feature,map_31
 map_32,Ludic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 87,Ludic (Northern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_32
 88,Ludic (Southern Ludic),,,,ludi1246,traditional,rantanen2021uralic,features,feature,map_32
@@ -131,9 +131,9 @@ map_35,TundraNenets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 map_36,Livonian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 95,Livonian,,,,livv1244,traditional,rantanen2021uralic,features,feature,map_36
 map_37,Votic_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-96,Votic (Western Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
-97,Votic (Eastern Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
-98,Votic (Kukkuzi Votic),,,,voti1245,traditional,rantanen2021uralic,features,feature,map_37
+96,Votic (Western Votic),,,,west2391,traditional,rantanen2021uralic,features,feature,map_37
+97,Votic (Eastern Votic),,,,east2327,traditional,rantanen2021uralic,features,feature,map_37
+98,Votic (Kukkuzi Votic),,,,kukk1240,traditional,rantanen2021uralic,features,feature,map_37
 map_38,TundraEnets_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 99,Tundra Enets,,,,tund1254,traditional,rantanen2021uralic,features,feature,map_38
 map_39,EasternMari_traditional_OGUL,,,,,,rantanen2021uralic,,map,
@@ -146,8 +146,9 @@ map_41,EastKhanty_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 map_42,WestSouthMansi_traditional_OGUL,,,,,,rantanen2021uralic,,map,
 104,West and South Mansi,,,,sout3253,traditional,rantanen2021uralic,features,feature,map_42
 map_43,Karelian_traditional_OGUL,,,,,,rantanen2021uralic,,map,
-105,Karelian (Viena Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+105,Karelian (Viena Karelian),,,,nort2673,traditional,rantanen2021uralic,features,feature,map_43
 106,Karelian (South Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
 107,Karelian (Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
 108,Karelian (South and Livvi Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
-109,Karelian (Tver Karelian),,,,kare1335,traditional,rantanen2021uralic,features,feature,map_43
+109,Karelian (Livvi Karelian),,,,livv1243,traditional,rantanen2021uralic,features,feature,map_43
+110,Karelian (Tver Karelian),,,,tver1240,traditional,rantanen2021uralic,features,feature,map_43

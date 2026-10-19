@@ -9,7 +9,7 @@ cldfbench download cldfbench_rantanen2021uralic.py
 ## Recreate the CLDF dataset
 
 ```shell
-cldfbench makecldf cldfbench_rantanen2021uralic.py --glottolog-version v5.2
+cldfbench makecldf cldfbench_rantanen2021uralic.py --glottolog-version v5.3
 cldfbench cldfreadme cldfbench_rantanen2021uralic.py
 cldfbench zenodo --communities glottography cldfbench_rantanen2021uralic.py
 cldfbench readme cldfbench_rantanen2021uralic.py
@@ -29,7 +29,7 @@ cldfbench geojson.validate cldf
 ```
 
 ```shell
-cldfbench geojson.glottolog_distance cldf --glottolog-version v5.2 --format tsv | csvformat -t | csvgrep -c Distance -r"^0\.?" -i | csvsort -c Distance | csvcut -c ID,Distance | csvformat -E | termgraph
+cldfbench geojson.glottolog_distance cldf --glottolog-version v5.3 --format tsv | csvformat -t | csvgrep -c Distance -r"^0\.?" -i | csvsort -c Distance | csvcut -c ID,Distance | csvformat -E | termgraph
 ```
 
 ```
